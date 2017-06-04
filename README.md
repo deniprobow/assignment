@@ -15,6 +15,6 @@ This file is update task of assignment project. We select which row that we want
 there is a POST submit name "submit_data" then we will update which post want to update from two form in page then insert in table users. Then we check, if query success executed there is message "Data is updated successfully" and if query not
 success there is a message "Sorry, Data is not updated."
 
-#Delete.php
+# Delete.php
 This file is delete task of assignment project. We select which row that we want to delete, then from parameter id in url delete.php we delete the data in query with where sql parameter. if query success executed there is message "Record is deleted successfully" and if query not
 success there is a message "Sorry, Record is not deleted."
